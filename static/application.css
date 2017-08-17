@@ -1,5 +1,5 @@
 body {
-	background: #002B36;
+	background: #333;
 	padding: 20px 50px;
 	margin: 0px;
 }
@@ -63,11 +63,11 @@ textarea {
 #box1 {
 	padding: 5px;
 	text-align: center;
-	background: #00222b;
+	background: #2B0000;
 }
 
 #box2 {
-	background: #08323c;
+	background: #3C0808;
 	font-size: 0px;
 	padding: 0px 5px;
 }
@@ -113,7 +113,7 @@ textarea {
 }
 
 #box3, #messages li {
-	background: #173e48;
+	background: #4f1a1a;
 	font-family: Helvetica, sans-serif;
 	font-size: 12px;
 	line-height: 14px;
@@ -126,7 +126,7 @@ textarea {
 }
 
 #box3 .shortcut {
-	color: #c4dce3;
+	color: #E3C4C4;
 	font-weight: normal;
 }
 
